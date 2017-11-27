@@ -1,0 +1,16 @@
+{
+  "name": "tex-theme-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "My favourite color syntax",
+  "keywords": [
+    "syntax",
+    "theme",
+    "tex"
+  ],
+  "repository": "https://github.com/DamianoTex/tex-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
